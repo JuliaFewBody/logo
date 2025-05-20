@@ -14,3 +14,11 @@ cd logo
 julia
 julia> include("./logo.jl")
 ```
+
+### Conversion: SVG to PNG
+
+https://chromewebstore.google.com/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp
+
+### Conversion: SVG to ICO
+
+https://convertio.co/ja/svg-ico/
