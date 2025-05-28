@@ -19,6 +19,6 @@ julia> include("./logo.jl")
 
 https://chromewebstore.google.com/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp
 
-### Conversion: SVG to ICO
+### Conversion: PNG to ICO
 
-https://convertio.co/ja/svg-ico/
+https://convertio.co/ja/png-ico/
